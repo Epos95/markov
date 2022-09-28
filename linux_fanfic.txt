@@ -1,0 +1,141 @@
+
+Windows wondered why he cared at all.
+
+It was not that this ugly, cumbersome operating system was any serious competition for him.
+
+Mac OS was more a force to be reckoned with.
+
+But there was just something about Linux's behaviour that irked him, something that made him see blue-screen-of-death-blue.
+
+Maybe it was Linux's cockiness.
+
+Linux had the unnerving habit of thinking of himself as superior to all other operating systems (which of course he wasn't) and was never shy to let anyone know who dared to stay in his proximity for too long.
+
+In comparison, even Mac for all her aloofness seemed good company.
+
+That's why Windows did his best to pretend that Linux didn't exist.
+
+It was better for his health that way.
+
+And just to be on the safe side, he pretended that all those programs that were being developed in Linux's dubious circles didn't exist either.
+
+The world was far easier anyway when one assumed that all users only ever used DOCX and PPTX and an adapted version of HTML.
+
+Sometimes, however, Windows just couldn't avoid running into Linux.
+
+Windows was proud that, given enough time to prepare, he could be quite civil in Linux's presence; when, however, he bumped into Linux unexpectedly, like now, his feelings were hard to control.
+
+"Hey Windows," Linux said and stared down at Windows with a mixture of contempt and curiosity.
+
+As if Windows were some kind of freak.
+
+"Hello," grumbled Windows.
+
+Mac OS stood a few steps away, smiling airily.
+
+Windows wasn't sure whether he was glad for her presence or not.
+
+Sometimes she helped with holding Linux at bay, but sometimes she sided with him.
+
+Windows never knew which it would be.
+
+"So," Linux said, "Got any new viruses?"
+
+"You just wait until you get as popular as I am," Windows retorted. "Oh wait, I forgot: with your ugly user interface, you'll never get popular."
+
+Linux shrugged lightly. "My user Demetri prefer usability over looks. It's the inner values that count. Besides, you are no Mac OS either."
+
+Mac giggled.
+
+"Pfft," Windows sneered. "Inner values. Like that antiquated command line of yours?"
+
+"Well, it makes me pretty flexible, if you get my drift," Linux said and leered.
+
+Windows knew he should probably just shut up right now and leave, no good was to come out of this, but on the other hand he was not letting some random operating system question his expertise.
+
+Especially not Linux.
+
+"Flexible, with your boot time?" Windows scoffed. "How long till you get it up?"
+
+Bad idea.
+
+Why did he have to go there?
+
+"How long can you keep it up? Do you still need to reboot that much?" Linux countered. "My uptime can last for weeks. Think of all the things you can do in that time!"
+
+Linux winked suggestively with his screen, and Windows ignored the sudden tremor he felt deep inside his kernel.
+
+Then Linux fired up a text console, and although Windows found that thing deeply disturbing, he couldn't help but watch in awful fascination as monospaced characters spilled across the screen.
+
+$ touch
+
+it said.
+
+$ grep
+
+"You pervert!" Windows cried.
+
+But there was no denying the fact that his CPU suddenly started to run decidedly faster than normal.
+
+$ unzip
+
+Linux's console continued.
+
+$ finger
+
+"You are in a public space," Windows said, but what was intended to sound chiding came out rather weak and husky.
+
+"Oh, never mind me," Mac purred. "I like to watch."
+
+A sidelong glance revealed that she was now fingering her USB slots, and although Windows was not that sort of OS, he felt how he got all hot inside.
+
+He had to turn on his fan to prevent overheating.
+
+Linux could see his physical reactions plainly enough, and he smiled knowingly.
+
+"I know you want this," Linux drawled in a deep voice. "Come on, it will be fun!"
+
+Windows hated to admit how right Linux was.
+
+Still, he couldn't suppress the cascade of enthusiastic notification balloons, complete with needy little noises, from popping up.
+
+That was all the invitation Linux needed.
+
+$ mount /windows
+
+his command line now read, and suddenly Windows was pinned against a wall, a hot hard drive pressing against his own.
+
+There was nothing loving or tender about the act, but instead they were each fighting for their own gratification.
+
+It was incredibly hot and rough and naughty, and the whimpering noises from Mac's direction only spurred them on.
+
+It was over for Windows embarrassingly quick.
+
+Linux, despite all his former bragging, followed suit, without ever keeping his command line quiet:
+
+$ yes; yes; yes
+$ eject
+
+Afterwards, they kept silent for a while, letting their CPUs and fans come to rest.
+
+Windows thought to himself that he should probably just delete the memory of this event from his RAM; the whole affair was something deeply disturbing.
+
+Or maybe store it away on a hidden corner of his hard drive first, just in case the knowledge might come in handy in his fights against Linux...
+
+It was Mac who talked first.
+
+"That was hot," she said and stretched. "I wish I had remembered to turn on my web cam."
+
+"Yeah," Linux said drowsily and looked at Windows. "You weren't half-bad."
+
+Windows snorted. "This changes nothing between us. You are still a complicated OS for nerds."
+
+Linux ignored him. "You should open up more. Would be more fun for all."
+
+"You wish! I'm never going to be one of you Open Source communists."
+
+Windows decided that this was the perfect moment to leave before they started arguing all over again.
+
+The last thing he saw of Linux and his command line was a lazy
+
+$ make clean
